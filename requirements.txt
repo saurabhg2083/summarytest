@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langchain
+transformers
+PyMuPDF
+-e .
